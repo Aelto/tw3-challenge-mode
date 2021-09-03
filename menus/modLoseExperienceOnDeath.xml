@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<UserConfig>
+  <Group id="MCMplaythrough" displayName="Mods.mcm_name">
+    <VisibleVars>
+      
+      <Var id="playthrough_counter" displayName="mcm_playthrough_counter" displayType="SLIDER;0;10;10" />
+
+      <Var id="level0" displayName="mcm_level_0" displayType="SLIDER;0;10000000;10000000" />
+      <Var id="level1" displayName="mcm_level_1" displayType="SLIDER;0;10000000;10000000" />
+      <Var id="level2" displayName="mcm_level_2" displayType="SLIDER;0;10000000;10000000" />
+      <Var id="level3" displayName="mcm_level_3" displayType="SLIDER;0;10000000;10000000" />
+      <Var id="level4" displayName="mcm_level_4" displayType="SLIDER;0;10000000;10000000" />
+      <Var id="level5" displayName="mcm_level_5" displayType="SLIDER;0;10000000;10000000" />
+      <Var id="level6" displayName="mcm_level_6" displayType="SLIDER;0;10000000;10000000" />
+      <Var id="level7" displayName="mcm_level_7" displayType="SLIDER;0;10000000;10000000" />
+      <Var id="level8" displayName="mcm_level_8" displayType="SLIDER;0;10000000;10000000" />
+      <Var id="level9" displayName="mcm_level_9" displayType="SLIDER;0;10000000;10000000" />
+
+    </VisibleVars>
+  </Group>
+
+
+</UserConfig>
